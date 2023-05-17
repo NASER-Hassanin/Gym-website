@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Website link(https://gym-website123.netlify.app)//
+Website link https://gym-website123.netlify.app
 
 A gym site built with frame work react.js 
 
